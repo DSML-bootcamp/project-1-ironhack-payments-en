@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # data loading
-df = pd.read_csv(r"C:\Users\adria\Documents\GitHub\project-1-ironhack-payments-en\project_dataset\extract - cash request - data analyst.csv")
+df = pd.read_csv(r"C:\Users\adria\Documents\GitHub\W8E1\W2P2_solution.py")
 #df.info()
 
 print(df.head(50))
